@@ -1,0 +1,2 @@
+# joy.test
+object1
